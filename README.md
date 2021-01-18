@@ -15,6 +15,10 @@ The current chair is John Mark Walker of Capital One.
 CDF end user council is open to leadership teams from CDF end user members and guest organizations. 
 To join or more more information visit [CDF End User Council](https://cd.foundation/end-user-council)
 
+## 2021 Plan
+
+[CDF End User Council Plan 2021](https://github.com/cdfoundation/end-user-council/blob/main/End%20User%20Council%20Plan%202021.pdf)
+
 ## Meetings
 
 End User Council board meetings are held once a month, on the 2nd Thursday of each month at 8am PT | 11am ET | 4pm GMT | 5pm CET. Please see the calendar for further details: 
