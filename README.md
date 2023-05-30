@@ -21,7 +21,7 @@ The CDF End User Council is currently being restarted and more information toget
 
 ## Meetings
 
-The CDF End User Council Meetings are held on a bi-monthly basis and the meeting information will be announced separately.
+The CDF End User Council Meetings are held on every other month and the meeting information will be announced separately.
 
 ## Communication
 
